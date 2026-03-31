@@ -37,3 +37,6 @@ coverage
 
 # TypeScript (if applicable)
 *.tsbuildinfo
+
+# Examples directory
+/examples
