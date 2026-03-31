@@ -1,7 +1,7 @@
 import { useState } from "react";
-import Header from "../../courseinfo/src/components/Header";
-import Button from "../../courseinfo/src/components/Button";
-import Statistics from "../../courseinfo/src/components/Statistics";
+import Header from "./components/Header";
+import Button from "./components/Button";
+import Statistics from "./components/Statistics";
 
 export default function App() {
    const [good, setGood] = useState(0);
